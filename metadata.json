@@ -1,0 +1,5 @@
+{
+  "name": "ByteBuddy",
+  "description": "An AI-powered health and wellness companion. Get personalized dietary plans, receive nutritional analysis on meals, and have conversational Q&A sessions about health topics.",
+  "requestFramePermissions": []
+}
