@@ -1,5 +1,5 @@
 
-import React from 'react';
+import React, 'react';
 import Sidebar from './Sidebar';
 import { MenuIcon, ByteBuddyLogo } from './ui/Icons';
 
